@@ -11,9 +11,10 @@
 public class Variables {
     
     public static void main(String args[]){
-        
-        short edad=55;
-                
+        int mesesArray[][]=new int[12][];
+        for (int i = 0; i < mesesArray; i++) {
+            
+        }
         System.out.println(edad);
                 
         
